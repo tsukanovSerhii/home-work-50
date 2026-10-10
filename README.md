@@ -36,5 +36,4 @@
 5. Відкрийте локальний сервер у вашому браузері (зазвичай [http://localhost:5173/](http://localhost:5173/)).
 
 ## Демо-версія
-*(Тут ви можете додати посилання на розгорнуту версію проекту на Vercel або Netlify, коли здійсните деплоймент)*
-- **Demo:** [Vercel / Netlify Link]
+- **Demo:** [https://home-work-50-gamma.vercel.app](https://home-work-50-gamma.vercel.app)
